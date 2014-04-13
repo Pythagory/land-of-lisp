@@ -1,0 +1,6 @@
+' Ignore graphviz stuff
+*.png
+*.dot
+
+' Editor garbage
+*.swp
